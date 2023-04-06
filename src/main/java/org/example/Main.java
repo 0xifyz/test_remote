@@ -12,4 +12,8 @@ public class Main {
         ProjectDataTransferUtil.insertProjectAirConditionBusinessEval();
         ProjectDataTransferUtil.insertProjectAirConditionTechnologyEval();
     }
+    
+    void dev (){
+        System.out.println("dev分支");
+    }
 }
