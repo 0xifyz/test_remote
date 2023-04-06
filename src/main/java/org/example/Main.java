@@ -14,6 +14,6 @@ public class Main {
     }
     
     void dev (){
-        System.out.println("dev分支");
+        System.out.println("dev分支1");
     }
 }
